@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-08-11T10:32:38+09:00",
+  "documents": {
+    "남부": {
+      "document_key": "남부",
+      "url": "https://www.alio.go.kr/download/rulefiledown.json?fileNo=229540",
+      "path": "./reviews/contract_rule_comparison_2026-08-11/raw/alio_download/남부_2200000154339.hwp",
+      "http_status": 200,
+      "content_type": "application/haansofthwp;charset=utf-8",
+      "bytes": 360960,
+      "sha256": "6f0b133e20cc4b1b47b94ea4cc9b194cda3f40ca852bfa024ac0929a02a9d5af",
+      "downloaded_at": "2026-08-11T10:32:37+09:00"
+    },
+    "남동": {
+      "document_key": "남동",
+      "url": "https://www.alio.go.kr/download/rulefiledown.json?fileNo=222079",
+      "path": "./reviews/contract_rule_comparison_2026-08-11/raw/alio_download/남동_2200000154331.hwp",
+      "http_status": 200,
+      "content_type": "application/haansofthwp;charset=utf-8",
+      "bytes": 156672,
+      "sha256": "9e3bd37ee253cf27f939e7639d40293c0607b9e695e2362d219bea73052da3a8",
+      "downloaded_at": "2026-08-11T10:32:38+09:00"
+    },
+    "동서": {
+      "document_key": "동서",
+      "url": "https://www.alio.go.kr/download/rulefiledown.json?fileNo=226663",
+      "path": "./reviews/contract_rule_comparison_2026-08-11/raw/alio_download/동서_2200000140661.hwp",
+      "http_status": 200,
+      "content_type": "application/haansofthwp;charset=utf-8",
+      "bytes": 166400,
+      "sha256": "3c451ed7171dfc7d1d2719cad35cd7d0f9ca58d1e0d0bc55a1f29e67d00057e4",
+      "downloaded_at": "2026-08-11T10:32:38+09:00"
+    },
+    "서부": {
+      "document_key": "서부",
+      "url": "https://www.alio.go.kr/download/rulefiledown.json?fileNo=213372",
+      "path": "./reviews/contract_rule_comparison_2026-08-11/raw/alio_download/서부_2200000143201.hwp",
+      "http_status": 200,
+      "content_type": "application/haansofthwp;charset=utf-8",
+      "bytes": 141824,
+      "sha256": "1c8cfd3a4a36304ee934a0ed5e94fb5b79c3c31ace9ab968f5e79b8f51f0fba3",
+      "downloaded_at": "2026-08-11T10:32:38+09:00"
+    }
+  }
+}

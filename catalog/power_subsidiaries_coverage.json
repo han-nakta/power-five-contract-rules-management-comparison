@@ -1,0 +1,54 @@
+{
+  "project": "발전5사_계약규정_비교",
+  "snapshot_date": "2026-08-10",
+  "source": "law.go.kr public-institution API target=pi",
+  "interpretation": "no_api_record is not proof of no contract rule; fallback discovery remains required.",
+  "institutions": [
+    {
+      "short_name": "남부",
+      "institution_name": "한국남부발전(주)",
+      "status": "api_compared",
+      "detail_serial": "2200000154339",
+      "administrative_rule_id": "2134465",
+      "response_date": "20260113",
+      "comparison_review": "contract_rule_comparison_2026-08-11"
+    },
+    {
+      "short_name": "남동",
+      "institution_name": "한국남동발전(주)",
+      "status": "api_compared",
+      "detail_serial": "2200000154331",
+      "administrative_rule_id": "2134441",
+      "response_date": "20250930",
+      "comparison_review": "contract_rule_comparison_2026-08-11"
+    },
+    {
+      "short_name": "동서",
+      "institution_name": "한국동서발전(주)",
+      "status": "api_compared",
+      "detail_serial": "2200000140661",
+      "administrative_rule_id": "2134777",
+      "response_date": "20241224",
+      "comparison_review": "contract_rule_comparison_2026-08-11"
+    },
+    {
+      "short_name": "서부",
+      "institution_name": "한국서부발전(주)",
+      "status": "api_compared",
+      "detail_serial": "2200000143201",
+      "administrative_rule_id": "2134271",
+      "response_date": "20250317",
+      "comparison_review": "contract_rule_comparison_2026-08-11"
+    },
+    {
+      "short_name": "중부",
+      "institution_name": "한국중부발전(주)",
+      "status": "no_api_record",
+      "detail_serial": null,
+      "administrative_rule_id": null,
+      "response_date": null,
+      "comparison_review": null,
+      "next_action": "institution_site_or_local_file_fallback"
+    }
+  ]
+}

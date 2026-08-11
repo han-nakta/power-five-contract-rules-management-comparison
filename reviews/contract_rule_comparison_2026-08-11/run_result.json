@@ -1,0 +1,17 @@
+{
+  "run": "./reviews/contract_rule_comparison_2026-08-11",
+  "raw_manifest": "./reviews/contract_rule_comparison_2026-08-11/raw/api/manifest.json",
+  "comparison_summary": "./reviews/contract_rule_comparison_2026-08-11/derived/comparison/comparison_summary.json",
+  "report": "./reviews/contract_rule_comparison_2026-08-11/reports/contract_rule_comparison_review.md",
+  "traceability_pass": true,
+  "supplementary_traceability_pass": true,
+  "supplementary_traceability_report": "./reviews/contract_rule_comparison_2026-08-11/qa/supplementary_traceability_report.json",
+  "source_qa_all_pass": true,
+  "api_article_counts": {
+    "남부": 192,
+    "남동": 196,
+    "동서": 184,
+    "서부": 191
+  },
+  "alignment_rows": 1152
+}

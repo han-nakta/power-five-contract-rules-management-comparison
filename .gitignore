@@ -1,0 +1,14 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+*.swp
+*.log
