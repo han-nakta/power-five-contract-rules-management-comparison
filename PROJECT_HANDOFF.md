@@ -6,6 +6,9 @@
 - 경로: `.`
 - 분리 기준: ALIO canonical ontology와 별도 관리
 - 현재 review snapshot: `contract_rule_comparison_2026-08-11`
+- GitHub repository: https://github.com/han-nakta/power-five-contract-rules-management-comparison
+- 공개 상태: `public`
+- PRD: `docs/PRD.md`
 
 ## 완료 상태
 
@@ -30,14 +33,14 @@
 
 ## 다음 작업
 
-1. 별도 GitHub private repository 생성 여부를 결정한다.
-2. `version_manifest`·source hash·parser version·structured diff·parameter diff 스키마를 고정한다.
-3. 정기 API probe → deterministic QA → Git PR/tag 흐름을 만든다.
-4. Git에서 승인된 version만 OpenCrab private project/pack에 update하는 pilot을 수행한다.
-5. 중부발전 계약규정의 기관 홈페이지/ALIO/local-file fallback 탐색
-6. 다중 정규화 unit 기준 항·호·목 내용 대응으로 확장
-7. 부칙의 시행일·적용례·폐지·경과조치 비교 레이어 추가
+1. `version_manifest`·source hash·parser version·structured diff·parameter diff 스키마를 고정한다.
+2. 정기 API probe → deterministic QA → Git PR/tag 흐름을 만든다.
+3. Git에서 승인된 version만 OpenCrab private project/pack에 update하는 pilot을 수행한다.
+4. 중부발전 계약규정의 기관 홈페이지/ALIO/local-file fallback을 탐색한다.
+5. 다중 정규화 unit 기준 항·호·목 내용 대응으로 확장한다.
+6. 부칙의 시행일·적용례·폐지·경과조치 비교 레이어를 추가한다.
 
+PRD: `docs/PRD.md`
 상세 비교 문서: `docs/version-management-options-review-2026-08-11.md`
 
 ## 주의

@@ -51,9 +51,12 @@
 ├─ catalog/
 │  └─ power_subsidiaries_coverage.json
 ├─ docs/
+│  ├─ PRD.md
 │  ├─ power-subsidiaries-coverage-2026-08-10.md
 │  └─ version-management-options-review-2026-08-11.md
 ```
+
+제품 요구사항과 현재까지의 합의 사항은 [`docs/PRD.md`](docs/PRD.md)에 정리되어 있다.
 
 ## 독립 재실행
 
