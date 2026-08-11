@@ -1,5 +1,9 @@
 # 발전5사_계약규정_비교
 
+- 프로젝트 표시명: **발전5사 계약규정 관리 및 비교**
+- GitHub repository: https://github.com/han-nakta/power-five-contract-rules-management-comparison
+- 공개 상태: `public`
+
 한국전력 발전자회사 5사의 계약규정을 국가법령정보센터 공공기관 규정 API(`target=pi`)와 ALIO 원본 문서 기준으로 비교·검토하는 독립 프로젝트다.
 
 이 프로젝트는 `<alio-project>`의 canonical ALIO 온톨로지와 분리되어 있다. ALIO 원본 프로젝트는 보존하고, 이 디렉터리에는 발전5사 계약규정 비교에 필요한 dated snapshot·원본·runner·QA만 둔다.
